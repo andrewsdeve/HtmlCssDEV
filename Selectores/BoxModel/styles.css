@@ -1,0 +1,29 @@
+
+
+
+body{
+    margin: 0;
+
+}
+
+.box{
+    width: 200px;
+    height: 100px;
+    margin: 10px auto;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 100px;
+
+}
+
+.box1{
+    color: white;
+    background: steelblue;
+}
+
+.box2{
+    background: tomato;
+    color: white;
+
+}
+
