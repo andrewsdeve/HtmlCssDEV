@@ -9,5 +9,18 @@
     height: 200px;
     margin: 0 auto;
     margin-top: 40px;
-    border: 1px solid black;
+    /*border: 5px dotted black;*/
+    /*border-width: 10px 20px 30px 40px ;*/
+    /*border-style: groove dashed ;*/
+    /*border-color: red blue crimson white ;*/
+    /*border-top: 10px solid red ;*/
+    /*border-right:15px dotted blue ;*/
+    /*border-left: 20px groove yellow;*/
+    /*border-bottom: 30px dashed steelblue ;*/
+
+    border-top-width: 20px;
+    border-top-color: crimson;
+    border-top-style: dotted;
+
+
 }
